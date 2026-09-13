@@ -2,6 +2,10 @@
 
 **EITitor Extension for Enigma2's EITitor**
 
+Enigma2⁠ is Linux-based software for DVB and IPTV receivers as well as TV set-top boxes
+
+
+
 ## Remarks
 
 - **EITitor 1.6.0**

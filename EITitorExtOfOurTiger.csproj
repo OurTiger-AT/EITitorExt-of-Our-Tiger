@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22B8E159-104D-4463-A6D9-2E18C98584CB}</ProjectGuid>
+    <ProjectGuid>{F1E2A819-F156-9CB8-96EA-52F1BC98F58D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>OurTiger.EITitorExtOfOurTiger</RootNamespace>
     <AssemblyName>EITitorExtOfOurTiger</AssemblyName>

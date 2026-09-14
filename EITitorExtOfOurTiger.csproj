@@ -91,6 +91,7 @@
     <Content Include="pets-24px-colors.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Docs\" />
     <Folder Include="NSIS\" />
     <Folder Include="Resources\" />
   </ItemGroup>

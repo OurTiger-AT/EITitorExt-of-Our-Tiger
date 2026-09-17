@@ -1,4 +1,4 @@
-# EITitorExt-of-Our-Tiger
+# EITitorExt of Our Tiger
 
 **EITitor Extension for Enigma2's EITitor**
 
